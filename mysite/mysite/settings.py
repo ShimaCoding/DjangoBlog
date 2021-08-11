@@ -27,7 +27,7 @@ DEBUG = True
 
 ALLOWED_HOSTS = []
 
-
+#Hola
 # Application definition
 
 SITE_ID = 1
